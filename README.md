@@ -22,8 +22,8 @@ SAP ERP · Odoo · CRM platforms
 
 ## Background
 
-Former healthcare operations professional (Spain & Colombia)
-Financial operations experience in the EU
-MBA + Ironhack Data Analytics Bootcamp
-Based in **Spain** 
-Spanish (native) · English (Fluent) · German (intermediate)
+-Former healthcare operations professional (Spain & Colombia)
+-Financial operations experience in the EU
+-MBA + Ironhack Data Analytics Bootcamp
+-Based in **Spain** 
+-Languages: Spanish (native) · English (Fluent) · German (intermediate)
