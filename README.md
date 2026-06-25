@@ -1,10 +1,12 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=1A1B26&height=100&text=Hi,_I'm_Carlos&fontSize=45&fontColor=7AA2F7" alt="Sleek Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=1A1B26&height=100&text=Carlos_Vera&fontSize=45&fontColor=3A4852" alt="Sleek Banner" />
 </p>
 
 </p>
 
-Data professional — bringing 6+ years from healthcare operations and financial services into the data world.
+<p align="center">
+  <code>Data professional — bringing 6+ years from healthcare operations and financial services into the data world.</code>
+</p>
 
 ---
 
