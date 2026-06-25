@@ -6,19 +6,19 @@ Data professional — bringing 6+ years from healthcare operations and financial
 
 ## 🔧 Stack 
 
-**Data**
+- **Data**
 
 Python · SQL · Google BigQuery · DBT
 
-**BI & Visualization**
+- **BI & Visualization**
 
 Power BI · Looker Studio · Advanced Excel
 
-**Tools**
+- **Tools**
 
 Git · GitHub 
 
-**Business Systems**
+- **Business Systems**
 
 SAP ERP · Odoo · CRM platforms
 
