@@ -1,25 +1,19 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=1A1B26&height=100&text=Carlos_Vera&fontSize=45&fontColor=3A4852" alt="Sleek Banner" />
-</p>
+# Hi, I'm Carlos 
 
-</p>
-
-<p align="center">
-  <code>Data professional — bringing 6+ years from healthcare operations and financial services into the data world.</code>
-</p>
+Data professional — bringing 6+ years from healthcare operations and financial services into the data world.
 
 ---
 
 ## 🔧 Stack 
 
-**Data & Programming**
-Python (pandas, NumPy, Matplotlib) · SQL (PostgreSQL, SQL Server)
+**Data**
+Python · SQL · Google BigQuery · DBT
 
 **BI & Visualization**
-Power BI (DAX) · Looker Studio · Advanced Excel
+Power BI · Looker Studio · Advanced Excel
 
 **Tools**
-Git · GitHub · VS Code · Jupyter
+Git · GitHub 
 
 **Business Systems**
 SAP ERP · Odoo · CRM platforms
