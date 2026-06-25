@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=1A1B26&height=180&text=CARLOS&fontSize=45&fontColor=7AA2F7" alt="Sleek Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=1A1B26&height=100" alt="Sleek Banner" />
 </p>
 # Hi, I'm Carlos 
 
