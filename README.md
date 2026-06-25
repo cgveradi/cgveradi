@@ -4,37 +4,26 @@ Data professional — bringing 6+ years from healthcare operations and financial
 
 ---
 
-## 🔧 Stack I'm working with
+## 🔧 Stack 
 
-| Area | Tools |
-|---|---|
-| Data wrangling | Python (pandas, numpy) |
-| Databases | SQL (PostgreSQL, MySQL) | DBT 
-| Visualization | Power BI, Tableau, Looker |
-| Version control | Git / GitHub |
+**Data & Programming**
+Python (pandas, NumPy, Matplotlib) · SQL (PostgreSQL, SQL Server)
 
----
+**BI & Visualization**
+Power BI (DAX) · Looker Studio · Advanced Excel
 
-## 📂 Projects
+**Tools**
+Git · GitHub · VS Code · Jupyter
 
-### 🏥 Healthcare Analytics — CMS Medicare Data
-Exploratory analysis of US Medicare claims data using pandas. Focused on procedure costs, regional variation, and provider patterns.
-> `Python` `pandas` `EDA` `healthcare`
-
-### 📊 Business KPI Dashboard — Superstore
-End-to-end Power BI dashboard tracking revenue, profit margins, and customer segments. Built for a fictional retail chain as a portfolio piece.
-> `Power BI` `DAX` `data modeling`
-
-### 🌍 World Bank Data Pipeline
-Mini ETL pipeline pulling economic indicators from the World Bank open API, transforming the data, and loading it into a structured format for analysis.
-> `Python` `REST API` `ETL` `pandas`
+**Business Systems**
+SAP ERP · Odoo · CRM platforms
 
 ---
 
-## 🌱 Background
+## Background
 
 - 🏥 Former healthcare operations professional (Spain & Colombia)
 - 💼 Financial operations experience in the EU
 - 🎓 MBA + Ironhack Data Analytics Bootcamp
 - 🌍 Based in **Spain** 
-- 🗣️ Spanish (native) · English (C1) · German (intermediate)
+- 🗣️ Spanish (native) · English (Fluent) · German (intermediate)
