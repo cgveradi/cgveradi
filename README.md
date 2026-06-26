@@ -6,9 +6,7 @@ Data professional — bringing 6+ years from healthcare operations and financial
 
 ## 🔧 Stack 
 
-**Data**
-
-- Python · SQL · Google BigQuery · DBT
+- Python · SQL · Google BigQuery · dbt Core
 
 **BI & Visualization**
 
