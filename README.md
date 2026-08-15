@@ -4,11 +4,11 @@
 
 # Analytics, context &<br>better decisions.
 
-I turn complex operational data into **reliable models, pipelines, dashboards, and insights** that people can act on.
+I turn **messy operational data into decisions** through reliable models, pipelines, dashboards, and insights.
 
 **Data Analytics · Business Intelligence · Analytics Engineering**
 
-[LinkedIn ↗](https://www.linkedin.com/in/carlosveradiago/) &nbsp;&nbsp; [GitHub ↗](https://github.com/cgveradi) &nbsp;&nbsp; Spain
+[LinkedIn ↗](https://www.linkedin.com/in/carlosveradiago/) &nbsp;&nbsp; Spain
 
 </div>
 
@@ -22,7 +22,7 @@ I turn complex operational data into **reliable models, pipelines, dashboards, a
 
 ## Business context meets data.
 
-Across **6+ years in operations, healthcare, and financial services**, I have developed a practical approach to analytics: structure the mess, find the story in the data, and make it useful to the people who have to act on it.
+Six years working across **operations, financial services, and healthcare** taught me that useful analytics begins with business context. My approach is practical: structure the mess, find the story in the data, and make it useful to the people who have to act on it.
 
 My background in **Communication and Business**, strengthened through an **MBA**, gives me the context behind the numbers. Training in **Data Analytics at Ironhack** added the technical foundation to build the solutions myself.
 
