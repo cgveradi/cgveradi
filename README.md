@@ -1,170 +1,136 @@
 <div align="center">
 
-<img src="./assets/carlos-vera-banner.png" alt="Carlos Vera — Data Analytics, Business Intelligence and Analytics Engineering" width="100%" />
+<sub>CARLOS VERA / DATA & BUSINESS</sub>
 
-<br>
+# Analytics, context &<br>better decisions.
 
-# Carlos Vera
+I turn complex operational data into **reliable models, pipelines, dashboards, and insights** that people can act on.
 
-### Data Analyst · Business Intelligence · Analytics Engineering
+**Data Analytics · Business Intelligence · Analytics Engineering**
 
-**Business context × Data × Communication**
-
-I turn complex operational data into **models, pipelines, dashboards, and insights that support better decisions.**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Carlos_Vera-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlosveradiago/)
-[![GitHub](https://img.shields.io/badge/GitHub-cgveradi-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/cgveradi)
-![Spain](https://img.shields.io/badge/Based_in-Spain-555555?style=flat-square)
+[LinkedIn ↗](https://www.linkedin.com/in/carlosveradiago/) &nbsp;&nbsp; [GitHub ↗](https://github.com/cgveradi) &nbsp;&nbsp; Spain
 
 </div>
 
----
-
-## 👋 About Me
-
-I bring **6+ years of experience across healthcare operations and financial services**, where I developed a practical approach to analytics:
-
-> **Structure the mess. Find the story in the data. Make it useful to the people who have to act on it.**
-
-My background in **Communication and Business**, strengthened through an **MBA**, gives me the business perspective behind the numbers. My training in **Data Analytics at Ironhack** added the technical foundation to build the solutions myself.
-
-Today, I work at the intersection of **business intelligence, analytics, data modeling, and analytics engineering**.
+<br>
 
 ---
 
-## 🛠️ Tech Stack
+<br>
 
-### Production Experience
+<sub>01 / PERSPECTIVE</sub>
 
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
-![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white)
+## Business context meets data.
 
-**Power BI · DAX · SQL Server · Power Query · SAP ERP · Odoo · Advanced Excel**
+Across **6+ years in operations, healthcare, and financial services**, I have developed a practical approach to analytics: structure the mess, find the story in the data, and make it useful to the people who have to act on it.
 
-Built and owned **end-to-end BI reporting**, from raw ERP data and transformation through semantic models and dashboards used for operational and executive decision-making.
+My background in **Communication and Business**, strengthened through an **MBA**, gives me the context behind the numbers. Training in **Data Analytics at Ironhack** added the technical foundation to build the solutions myself.
 
-### Modern Data Stack
+Today, I work at the intersection of **business intelligence, data modeling, analytics engineering, and cloud data**.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+> Data is valuable when it changes a decision.
 
-**Python · dbt Core · BigQuery · Snowflake · Looker Studio · Tableau**
-
-Extending my production BI experience into **analytics engineering, cloud data platforms, and reliable data pipelines** through hands-on projects.
+<br>
 
 ---
 
-# 🚀 Featured Projects
+<br>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<sub>02 / TOOLKIT</sub>
 
-### 📊 [B2B Sales Analytics](https://github.com/cgveradi/b2b-sales-star-schema-powerbi)
+## Tools for useful, reliable analytics.
+
+### Production experience
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=000000)
+![DAX](https://img.shields.io/badge/DAX-1F6E8C?style=flat-square&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Power Query](https://img.shields.io/badge/Power_Query-217346?style=flat-square&logoColor=white)
+![Excel](https://img.shields.io/badge/Advanced_Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![SAP](https://img.shields.io/badge/SAP_ERP-0FAAFF?style=flat-square&logo=sap&logoColor=white)
+![Odoo](https://img.shields.io/badge/Odoo-714B67?style=flat-square&logo=odoo&logoColor=white)
+
+End-to-end BI reporting—from raw ERP data and transformation to semantic models and dashboards used for operational and executive decision-making.
+
+### Modern data stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt_Core-FF694B?style=flat-square&logo=dbt&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
+![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=flat-square&logo=looker&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+Hands-on projects in analytics engineering, cloud data platforms, pipeline development, dimensional modeling, and data quality.
+
+### Developing next
+
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-742774?style=flat-square&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+
+Building toward scalable transformation workflows and modern lakehouse architecture while deepening my Python data-engineering practice.
+
+<br>
+
+---
+
+<br>
+
+<sub>03 / SELECTED WORK</sub>
+
+## Four projects. One evolving practice.
+
+### 01 — [B2B Sales Analytics ↗](https://github.com/cgveradi/b2b-sales-star-schema-powerbi)
 
 **Power BI · Power Query · DAX · Dimensional Modeling**
 
-Turned **22 messy source sheets** into a structured fact/dimension model.
+Turned **22 messy source sheets** into a structured fact-and-dimension model, with a complete transformation workflow, business logic, KPI design, and interactive sales analysis.
 
-Built the ETL workflow with Power Query, business logic with DAX, and an interactive Power BI dashboard for sales analysis.
+`Data modeling` &nbsp; `ETL` &nbsp; `DAX` &nbsp; `Power BI`
 
-**What it demonstrates**
+---
 
-`Data Modeling` `ETL` `DAX` `KPI Design` `Power BI`
+### 02 — [HealthFlow Analytics ↗](https://github.com/cgveradi/healthflow-analytics)
 
-[**→ Explore project**](https://github.com/cgveradi/b2b-sales-star-schema-powerbi)
+**Python · BigQuery · Looker Studio · Healthcare Analytics**
 
-</td>
-<td width="50%" valign="top">
+An end-to-end healthcare analytics project exploring hospital readmissions and operational performance—connecting domain knowledge with cloud data processing, analytical modeling, and BI.
 
-### 🌍 [EU Data Job Tracker](https://github.com/cgveradi/eu-data-jobtracker)
+`Healthcare` &nbsp; `Python` &nbsp; `BigQuery` &nbsp; `BI`
 
-**Python · dbt · BigQuery · Looker Studio · API**
+---
 
-End-to-end data pipeline tracking European data analyst and data engineer job postings using the **Adzuna API**.
-
-Data is ingested with Python, transformed with dbt, modeled in BigQuery, and visualized in Looker Studio.
-
-**What it demonstrates**
-
-`Python` `API` `dbt` `BigQuery` `Analytics Engineering`
-
-[**→ Explore project**](https://github.com/cgveradi/eu-data-jobtracker)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🏥 [HealthFlow Analytics](https://github.com/cgveradi/healthflow-analytics)
-
-**Python · BigQuery · Looker Studio · Healthcare**
-
-End-to-end healthcare analytics project exploring **hospital readmissions and operational performance**.
-
-Combines healthcare domain knowledge with Python, cloud data processing, analytical modeling, and BI visualization.
-
-**What it demonstrates**
-
-`Healthcare Analytics` `Python` `BigQuery` `BI`
-
-[**→ Explore project**](https://github.com/cgveradi/healthflow-analytics)
-
-</td>
-<td width="50%" valign="top">
-
-### 💊 [PharmaReach](https://github.com/cgveradi/pharmareach)
+### 03 — [PharmaReach ↗](https://github.com/cgveradi/pharmareach)
 
 **Python · Jupyter · Segmentation · Healthcare**
 
-Physician targeting and segmentation analysis across **oncology, cardiology, and neurology**.
+Physician targeting and segmentation across oncology, cardiology, and neurology, using the **HVT & Nexus Model** to identify and prioritize high-value physician segments.
 
-Uses the **HVT & Nexus Model** to identify and prioritize high-value physician segments.
-
-**What it demonstrates**
-
-`Segmentation` `Python` `Healthcare` `Business Analytics`
-
-[**→ Explore project**](https://github.com/cgveradi/pharmareach)
-
-</td>
-</tr>
-</table>
+`Segmentation` &nbsp; `Python` &nbsp; `Healthcare` &nbsp; `Business analytics`
 
 ---
 
-## ⚙️ How I Think About Analytics
+### 04 — [EU Data Job Tracker ↗](https://github.com/cgveradi/eu-data-jobtracker)
 
-```text
-Business Question
-       ↓
-Raw Operational Data
-       ↓
-Cleaning & Transformation
-       ↓
-Data Modeling
-       ↓
-Analysis / Business Logic
-       ↓
-Dashboard or Data Product
-       ↓
-Decision
-```
+**Python · dbt · BigQuery · Looker Studio · API**
 
-I care about the whole chain — not just producing a chart.
+An end-to-end pipeline tracking European data roles through the Adzuna API—ingested with Python, transformed with dbt, modeled in BigQuery, and presented in Looker Studio.
 
-The goal is to build analytics that are **technically reliable, understandable to stakeholders, and useful for making decisions.**
+`Data pipelines` &nbsp; `dbt` &nbsp; `Cloud warehouse` &nbsp; `API ingestion`
+
+<br>
 
 ---
 
-## 🔭 Currently Exploring
+<br>
+
+<sub>04 / LEARNING</sub>
+
+## Current direction.
 
 ```text
 Analytics Engineering
@@ -173,26 +139,40 @@ Analytics Engineering
 ├── data quality & testing
 └── transformation workflows
 
-Cloud Data
+Cloud & Lakehouse
 ├── BigQuery
-└── Snowflake
+├── Snowflake
+├── Microsoft Azure
+├── Microsoft Fabric
+└── Databricks
 
-Python
+Python & Distributed Data
 ├── analytics pipelines
 ├── automation
-└── business-focused data products
+├── business-focused data products
+└── PySpark
 ```
+
+<br>
 
 ---
 
-## 🧭 Professional Journey
+<br>
+
+<sub>05 / JOURNEY</sub>
+
+## Experience before tools.
 
 ```text
-Healthcare Operations
-Colombia 🇨🇴 / Spain 🇪🇸
+Operations
+Colombia 🇨🇴
         │
         ▼
 Financial Operations
+Colombia 🇨🇴
+        │
+        ▼
+Healthcare Operations
 Europe 🇪🇺
         │
         ▼
@@ -204,44 +184,36 @@ Analytics Engineering
 & Modern Data Stack
 ```
 
-This combination gives me something I value highly in analytics:
+This path gives me something I value deeply: **technical curiosity grounded in real operational and business experience.**
 
-**technical curiosity grounded in real operational and business experience.**
+### Education
 
----
-
-## 🎓 Education
-
-**MBA**  
-EAE Business School · Universidad de Barcelona
-
-**Data Analytics Bootcamp**  
-Ironhack
-
+**MBA** — EAE Business School · Universitat de Barcelona<br>
+**Data Analytics Bootcamp** — Ironhack<br>
 **BA in Communication**
 
----
+### Languages
 
-## 🌍 Languages
-
-🇪🇸 **Spanish** — Native  
-🇬🇧 **English** — Fluent  
-🇩🇪 **German** — Intermediate
-
----
-
-## 🤝 Let's Connect
-
-I'm particularly interested in opportunities and projects involving:
-
-**Business Intelligence · Data Analytics · Analytics Engineering · Healthcare Analytics · Data Products**
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/Let's_connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlosveradiago/)
+**Spanish** — Native &nbsp;·&nbsp; **English** — Fluent &nbsp;·&nbsp; **German** — Intermediate
 
 <br>
 
-### Data is valuable when it changes a decision.
+---
+
+<br>
+
+<div align="center">
+
+<sub>06 / CONNECT</sub>
+
+## Let’s make the next connection.
+
+I am interested in work where **business intelligence, analytics engineering, healthcare, and useful data products** come together.
+
+[Connect on LinkedIn ↗](https://www.linkedin.com/in/carlosveradiago/)
+
+<br>
+
+**Business context × Data × Communication**
 
 </div>
