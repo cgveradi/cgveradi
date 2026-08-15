@@ -1,6 +1,9 @@
 # Hi, I'm Carlos!
 
-<a href="https://www.linkedin.com/in/carlosveradiago/" title="Connect with me on LinkedIn"><img src="./assets/linkedin.svg" alt="LinkedIn" width="28" height="28"></a>
+**Data Analyst · Power BI Analyst · Business Intelligence**
+
+<a href="https://www.linkedin.com/in/carlosveradiago/" title="Connect with me on LinkedIn"><img src="./assets/linkedin.svg" alt="LinkedIn" width="28" height="28"></a>&nbsp;
+<a href="https://www.instagram.com/carlosveradi/" title="Follow me on Instagram"><img src="./assets/instagram.svg" alt="Instagram" width="28" height="28"></a>
 
 <br>
 
@@ -8,11 +11,11 @@
 
 ## Business context meets data.
 
-I am a data-driven operations and financial analyst with **6+ years of experience** across healthcare and financial services in Spain and Colombia. I build reporting that turns fragmented operational data into clear decisions for leadership.
+I am a data-driven operations and financial analyst with **6+ years of experience** across healthcare and financial services in Spain and Colombia. I turn fragmented operational data into reporting that supports clear leadership decisions.
 
 Building and owning BI reporting has been central to every role—from Excel-based financial models and ERP data to SQL Server, Power BI semantic models, DAX, and executive dashboards. My background in **Communication and Business**, strengthened through an **MBA**, helps me connect the numbers to the decision behind them.
 
-I am now extending that foundation into **Microsoft Fabric**, preparing for the **DP-600 certification** and developing the lakehouse, transformation, and pipeline skills behind modern end-to-end reporting.
+I am focused on **Data Analyst, Power BI, and BI roles** while strengthening my Microsoft data-platform foundation through **DP-900 and DP-600 preparation**, Microsoft Fabric, and hands-on projects.
 
 <br>
 
@@ -49,15 +52,6 @@ End-to-end BI reporting—from raw ERP data and transformation to semantic model
 
 Hands-on projects in analytics engineering, cloud data platforms, pipeline development, dimensional modeling, and data quality.
 
-### Developing next
-
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
-![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-742774?style=flat-square&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
-
-Building toward scalable transformation workflows and modern lakehouse architecture while preparing for **Microsoft DP-600** and deepening my Python data-engineering practice.
-
 <br>
 
 ---
@@ -87,24 +81,21 @@ Building toward scalable transformation workflows and modern lakehouse architect
 ## Current direction.
 
 ```text
-Analytics Engineering
-├── dbt
-├── dimensional modeling
-├── data quality & testing
-└── transformation workflows
-
-Cloud & Lakehouse
-├── BigQuery
-├── Snowflake
-├── Microsoft Azure
+Microsoft Data Platform
+├── DP-900 & DP-600 preparation
 ├── Microsoft Fabric
-└── Databricks
+├── Power BI semantic models
+└── Azure data fundamentals
 
-Python & Distributed Data
+Analytics Engineering
+├── dbt transformation workflows
+├── dimensional modeling
+└── data quality & testing
+
+Python
 ├── analytics pipelines
 ├── automation
-├── business-focused data products
-└── PySpark
+└── business-focused data products
 ```
 
 <br>
@@ -130,8 +121,8 @@ Healthcare Operations
 Spain 🇪🇸
         │
         ▼
-Analytics Engineering
-& Microsoft Fabric
+Data Analytics & Power BI
+Microsoft Fabric path
 ```
 
 This path gives me something I value deeply: **technical curiosity grounded in real operational and business experience.**
