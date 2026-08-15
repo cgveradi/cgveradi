@@ -2,8 +2,6 @@
 
 <a href="https://www.linkedin.com/in/carlosveradiago/" title="Connect with me on LinkedIn"><img src="./assets/linkedin.svg" alt="LinkedIn" width="28" height="28"></a>
 
----
-
 <br>
 
 <sub>01 / PERSPECTIVE</sub>
@@ -15,8 +13,6 @@ I am a data-driven operations and financial analyst with **6+ years of experienc
 Building and owning BI reporting has been central to every role—from Excel-based financial models and ERP data to SQL Server, Power BI semantic models, DAX, and executive dashboards. My background in **Communication and Business**, strengthened through an **MBA**, helps me connect the numbers to the decision behind them.
 
 I am now extending that foundation into **Microsoft Fabric**, preparing for the **DP-600 certification** and developing the lakehouse, transformation, and pipeline skills behind modern end-to-end reporting.
-
-> Data is valuable when it changes a decision.
 
 <br>
 
@@ -149,25 +145,3 @@ This path gives me something I value deeply: **technical curiosity grounded in r
 ### Languages
 
 **Spanish** — Native &nbsp;·&nbsp; **English** — Fluent &nbsp;·&nbsp; **German** — Intermediate
-
-<br>
-
----
-
-<br>
-
-<div align="center">
-
-<sub>06 / CONNECT</sub>
-
-## Let’s make the next connection.
-
-I am interested in work where **business intelligence, analytics engineering, healthcare, and useful data products** come together.
-
-<a href="https://www.linkedin.com/in/carlosveradiago/" title="Connect with me on LinkedIn"><img src="./assets/linkedin.svg" alt="LinkedIn" width="32" height="32"></a>
-
-<br>
-
-**Business context × Data × Communication**
-
-</div>
