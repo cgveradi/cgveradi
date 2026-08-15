@@ -23,7 +23,7 @@ the modern data stack, one repo at a time.
 - **b2b-sales-star-schema-powerbi** — dimensional modeling + DAX
 - **healthflow-analytics** — healthcare ops data, Power BI dashboards
 - **eu-data-jobtracker** — Python-based job market pipeline
-- **pharmareach** — [brief description]
+- **pharmareach** — Physician targeting and segmentation analysis (HVT & Nexus Model) built in Python.
 
 ## Background
 Healthcare operations (Spain & Colombia) → Financial operations (EU) → 
