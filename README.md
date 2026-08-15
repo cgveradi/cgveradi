@@ -80,52 +80,7 @@ Building toward scalable transformation workflows and modern lakehouse architect
 
 <br>
 
-<sub>03 / EXPERIENCE</sub>
-
-## Reporting grounded in operations.
-
-### Data Analyst · [MIRIT ↗](https://mirit.org/)
-
-**May 2026 — Present · Part-time · Remote**
-
-Building reporting and automation solutions for small-business clients with Power BI, SQL, and Power Query. Currently analyzing participant and engagement data for MIRIT's **Gambia Project**, helping inform future cultural-exchange program decisions.
-
----
-
-### Operations Analyst · General Medical Care
-
-**April 2023 — April 2026 · Tarragona, Spain**
-
-- Designed and maintained Power BI dashboards across two provinces, reducing management reporting time by **approximately 30%** and surfacing operational bottlenecks.
-- Governed SAP ERP and Odoo data across multiple medical centers while maintaining reliable personnel and patient-flow reporting.
-- Consolidated SAP/Odoo reporting into SQL Server and Power BI, creating a foundation for future Azure and Fabric reporting.
-- Automated payroll reconciliation with Power Query and translated operational metrics into executive staffing and resource decisions.
-
----
-
-### Financial Data Analyst · Caja Promotora de Vivienda Militar y de Policía
-
-**September 2019 — December 2022 · Colombia**
-
-- Built Excel-based valuation models to project portfolio growth and risk exposure for high-net-worth clients.
-- Delivered fiscal-health reports and KPI dashboards to executives, translating complex financial data into clear investment recommendations.
-
----
-
-### Operations Analyst · Médicos Emergencias S.C.
-
-**June 2015 — July 2019 · Barcelona, Spain**
-
-- Consolidated fragmented operational sources into a centralized internal database, improving reliability across departments.
-- Tracked project budgets and timelines through Excel variance analysis and translated weekly project data into actionable leadership updates.
-
-<br>
-
----
-
-<br>
-
-<sub>04 / SELECTED WORK</sub>
+<sub>03 / SELECTED WORK</sub>
 
 ## Four projects. One evolving practice.
 
@@ -173,7 +128,7 @@ An end-to-end pipeline tracking European data roles through the Adzuna API—ing
 
 <br>
 
-<sub>05 / LEARNING</sub>
+<sub>04 / LEARNING</sub>
 
 ## Current direction.
 
@@ -204,7 +159,7 @@ Python & Distributed Data
 
 <br>
 
-<sub>06 / BACKGROUND</sub>
+<sub>05 / BACKGROUND</sub>
 
 ## A cross-sector path into data.
 
@@ -219,10 +174,6 @@ Colombia 🇨🇴
         ▼
 Healthcare Operations
 Spain 🇪🇸
-        │
-        ▼
-Data Analysis
-MIRIT · Remote
         │
         ▼
 Analytics Engineering
@@ -249,7 +200,7 @@ This path gives me something I value deeply: **technical curiosity grounded in r
 
 <div align="center">
 
-<sub>07 / CONNECT</sub>
+<sub>06 / CONNECT</sub>
 
 ## Let’s make the next connection.
 
