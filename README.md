@@ -1,6 +1,6 @@
 # Hi, I'm Carlos!
 
-<a href="https://www.linkedin.com/in/carlosveradiago/" title="Connect with me on LinkedIn"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" width="28" height="28"></a>
+<a href="https://www.linkedin.com/in/carlosveradiago/" title="Connect with me on LinkedIn"><img src="./assets/linkedin.svg" alt="LinkedIn" width="28" height="28"></a>
 
 ---
 
@@ -72,40 +72,13 @@ Building toward scalable transformation workflows and modern lakehouse architect
 
 ## Four projects. One evolving practice.
 
-<table>
-<tr>
-<td width="50%" valign="top">
-<sub>01 / BUSINESS INTELLIGENCE</sub>
-<h3><a href="https://github.com/cgveradi/b2b-sales-star-schema-powerbi">B2B Sales Analytics ↗</a></h3>
-<p><strong>Power BI · Power Query · DAX · Dimensional Modeling</strong></p>
-<p>Turned <strong>22 messy source sheets</strong> into a structured fact-and-dimension model, complete transformation workflow, KPI layer, and interactive sales analysis.</p>
-<p><code>Data modeling</code> <code>ETL</code> <code>DAX</code> <code>Power BI</code></p>
-</td>
-<td width="50%" valign="top">
-<sub>02 / HEALTHCARE ANALYTICS</sub>
-<h3><a href="https://github.com/cgveradi/healthflow-analytics">HealthFlow Analytics ↗</a></h3>
-<p><strong>Python · BigQuery · Looker Studio · Healthcare</strong></p>
-<p>Explores hospital readmissions and operational performance by connecting healthcare context with cloud processing, analytical modeling, and BI.</p>
-<p><code>Healthcare</code> <code>Python</code> <code>BigQuery</code> <code>BI</code></p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<sub>03 / SEGMENTATION</sub>
-<h3><a href="https://github.com/cgveradi/pharmareach">PharmaReach ↗</a></h3>
-<p><strong>Python · Jupyter · Segmentation · Healthcare</strong></p>
-<p>Physician targeting across oncology, cardiology, and neurology using the <strong>HVT &amp; Nexus Model</strong> to prioritize high-value segments.</p>
-<p><code>Segmentation</code> <code>Python</code> <code>Healthcare</code> <code>Business analytics</code></p>
-</td>
-<td width="50%" valign="top">
-<sub>04 / ANALYTICS ENGINEERING</sub>
-<h3><a href="https://github.com/cgveradi/eu-data-jobtracker">EU Data Job Tracker ↗</a></h3>
-<p><strong>Python · dbt · BigQuery · Looker Studio · API</strong></p>
-<p>Tracks European data roles through the Adzuna API, with Python ingestion, dbt transformations, BigQuery models, and Looker Studio reporting.</p>
-<p><code>Data pipelines</code> <code>dbt</code> <code>Cloud warehouse</code> <code>API</code></p>
-</td>
-</tr>
-</table>
+<p align="center">
+  <a href="https://github.com/cgveradi/b2b-sales-star-schema-powerbi"><img src="./assets/project-cards/b2b-sales.svg" alt="B2B Sales Analytics — View project" width="49%"></a>
+  <a href="https://github.com/cgveradi/healthflow-analytics"><img src="./assets/project-cards/healthflow.svg" alt="HealthFlow Analytics — View project" width="49%"></a>
+  <br><br>
+  <a href="https://github.com/cgveradi/pharmareach"><img src="./assets/project-cards/pharmareach.svg" alt="PharmaReach — View project" width="49%"></a>
+  <a href="https://github.com/cgveradi/eu-data-jobtracker"><img src="./assets/project-cards/eu-job-tracker.svg" alt="EU Data Job Tracker — View project" width="49%"></a>
+</p>
 
 <br>
 
@@ -191,7 +164,7 @@ This path gives me something I value deeply: **technical curiosity grounded in r
 
 I am interested in work where **business intelligence, analytics engineering, healthcare, and useful data products** come together.
 
-[Connect on LinkedIn ↗](https://www.linkedin.com/in/carlosveradiago/)
+<a href="https://www.linkedin.com/in/carlosveradiago/" title="Connect with me on LinkedIn"><img src="./assets/linkedin.svg" alt="LinkedIn" width="32" height="32"></a>
 
 <br>
 

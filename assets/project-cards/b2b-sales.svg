@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="220" viewBox="0 0 600 220" role="img" aria-label="B2B Sales Analytics project card">
+  <rect x="2" y="2" width="596" height="216" rx="16" fill="#0d1117" stroke="#2386d9" stroke-width="2"/>
+  <text x="300" y="52" fill="#58a6ff" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="700" text-anchor="middle">B2B Sales Analytics</text>
+  <text x="300" y="84" fill="#c9d1d9" font-family="Arial, Helvetica, sans-serif" font-size="16" text-anchor="middle">From 22 source sheets to an executive-ready sales model</text>
+  <text x="300" y="122" fill="#8b949e" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="middle">POWER BI  ·  POWER QUERY  ·  DAX  ·  STAR SCHEMA</text>
+  <rect x="220" y="150" width="160" height="42" rx="21" fill="none" stroke="#2386d9" stroke-width="2"/>
+  <text x="300" y="177" fill="#f0f6fc" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="600" text-anchor="middle">View project  ↗</text>
+</svg>
