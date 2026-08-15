@@ -1,18 +1,6 @@
-<div align="center">
+# Hi, I'm Carlos!
 
-<sub>CARLOS VERA / DATA & BUSINESS</sub>
-
-# Analytics, context &<br>better decisions.
-
-I turn **messy operational and financial data into decisions executives act on**.
-
-**Data Analytics · Business Intelligence · Analytics Engineering**
-
-[LinkedIn ↗](https://www.linkedin.com/in/carlosveradiago/) &nbsp;&nbsp; Spain
-
-</div>
-
-<br>
+<a href="https://www.linkedin.com/in/carlosveradiago/" title="Connect with me on LinkedIn"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" width="28" height="28"></a>
 
 ---
 
@@ -84,43 +72,40 @@ Building toward scalable transformation workflows and modern lakehouse architect
 
 ## Four projects. One evolving practice.
 
-### 01 — [B2B Sales Analytics ↗](https://github.com/cgveradi/b2b-sales-star-schema-powerbi)
-
-**Power BI · Power Query · DAX · Dimensional Modeling**
-
-Turned **22 messy source sheets** into a structured fact-and-dimension model, with a complete transformation workflow, business logic, KPI design, and interactive sales analysis.
-
-`Data modeling` &nbsp; `ETL` &nbsp; `DAX` &nbsp; `Power BI`
-
----
-
-### 02 — [HealthFlow Analytics ↗](https://github.com/cgveradi/healthflow-analytics)
-
-**Python · BigQuery · Looker Studio · Healthcare Analytics**
-
-An end-to-end healthcare analytics project exploring hospital readmissions and operational performance—connecting domain knowledge with cloud data processing, analytical modeling, and BI.
-
-`Healthcare` &nbsp; `Python` &nbsp; `BigQuery` &nbsp; `BI`
-
----
-
-### 03 — [PharmaReach ↗](https://github.com/cgveradi/pharmareach)
-
-**Python · Jupyter · Segmentation · Healthcare**
-
-Physician targeting and segmentation across oncology, cardiology, and neurology, using the **HVT & Nexus Model** to identify and prioritize high-value physician segments.
-
-`Segmentation` &nbsp; `Python` &nbsp; `Healthcare` &nbsp; `Business analytics`
-
----
-
-### 04 — [EU Data Job Tracker ↗](https://github.com/cgveradi/eu-data-jobtracker)
-
-**Python · dbt · BigQuery · Looker Studio · API**
-
-An end-to-end pipeline tracking European data roles through the Adzuna API—ingested with Python, transformed with dbt, modeled in BigQuery, and presented in Looker Studio.
-
-`Data pipelines` &nbsp; `dbt` &nbsp; `Cloud warehouse` &nbsp; `API ingestion`
+<table>
+<tr>
+<td width="50%" valign="top">
+<sub>01 / BUSINESS INTELLIGENCE</sub>
+<h3><a href="https://github.com/cgveradi/b2b-sales-star-schema-powerbi">B2B Sales Analytics ↗</a></h3>
+<p><strong>Power BI · Power Query · DAX · Dimensional Modeling</strong></p>
+<p>Turned <strong>22 messy source sheets</strong> into a structured fact-and-dimension model, complete transformation workflow, KPI layer, and interactive sales analysis.</p>
+<p><code>Data modeling</code> <code>ETL</code> <code>DAX</code> <code>Power BI</code></p>
+</td>
+<td width="50%" valign="top">
+<sub>02 / HEALTHCARE ANALYTICS</sub>
+<h3><a href="https://github.com/cgveradi/healthflow-analytics">HealthFlow Analytics ↗</a></h3>
+<p><strong>Python · BigQuery · Looker Studio · Healthcare</strong></p>
+<p>Explores hospital readmissions and operational performance by connecting healthcare context with cloud processing, analytical modeling, and BI.</p>
+<p><code>Healthcare</code> <code>Python</code> <code>BigQuery</code> <code>BI</code></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<sub>03 / SEGMENTATION</sub>
+<h3><a href="https://github.com/cgveradi/pharmareach">PharmaReach ↗</a></h3>
+<p><strong>Python · Jupyter · Segmentation · Healthcare</strong></p>
+<p>Physician targeting across oncology, cardiology, and neurology using the <strong>HVT &amp; Nexus Model</strong> to prioritize high-value segments.</p>
+<p><code>Segmentation</code> <code>Python</code> <code>Healthcare</code> <code>Business analytics</code></p>
+</td>
+<td width="50%" valign="top">
+<sub>04 / ANALYTICS ENGINEERING</sub>
+<h3><a href="https://github.com/cgveradi/eu-data-jobtracker">EU Data Job Tracker ↗</a></h3>
+<p><strong>Python · dbt · BigQuery · Looker Studio · API</strong></p>
+<p>Tracks European data roles through the Adzuna API, with Python ingestion, dbt transformations, BigQuery models, and Looker Studio reporting.</p>
+<p><code>Data pipelines</code> <code>dbt</code> <code>Cloud warehouse</code> <code>API</code></p>
+</td>
+</tr>
+</table>
 
 <br>
 
