@@ -4,7 +4,7 @@
 
 # Analytics, context &<br>better decisions.
 
-I turn **messy operational data into decisions** through reliable models, pipelines, dashboards, and insights.
+I turn **messy operational and financial data into decisions executives act on**.
 
 **Data Analytics · Business Intelligence · Analytics Engineering**
 
@@ -22,11 +22,11 @@ I turn **messy operational data into decisions** through reliable models, pipeli
 
 ## Business context meets data.
 
-Six years working across **operations, financial services, and healthcare** taught me that useful analytics begins with business context. My approach is practical: structure the mess, find the story in the data, and make it useful to the people who have to act on it.
+I am a data-driven operations and financial analyst with **6+ years of experience** across healthcare and financial services in Spain and Colombia. I build reporting that turns fragmented operational data into clear decisions for leadership.
 
-My background in **Communication and Business**, strengthened through an **MBA**, gives me the context behind the numbers. Training in **Data Analytics at Ironhack** added the technical foundation to build the solutions myself.
+Building and owning BI reporting has been central to every role—from Excel-based financial models and ERP data to SQL Server, Power BI semantic models, DAX, and executive dashboards. My background in **Communication and Business**, strengthened through an **MBA**, helps me connect the numbers to the decision behind them.
 
-Today, I work at the intersection of **business intelligence, data modeling, analytics engineering, and cloud data**.
+I am now extending that foundation into **Microsoft Fabric**, preparing for the **DP-600 certification** and developing the lakehouse, transformation, and pipeline skills behind modern end-to-end reporting.
 
 > Data is valuable when it changes a decision.
 
@@ -72,7 +72,7 @@ Hands-on projects in analytics engineering, cloud data platforms, pipeline devel
 ![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-742774?style=flat-square&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
 
-Building toward scalable transformation workflows and modern lakehouse architecture while deepening my Python data-engineering practice.
+Building toward scalable transformation workflows and modern lakehouse architecture while preparing for **Microsoft DP-600** and deepening my Python data-engineering practice.
 
 <br>
 
@@ -80,7 +80,52 @@ Building toward scalable transformation workflows and modern lakehouse architect
 
 <br>
 
-<sub>03 / SELECTED WORK</sub>
+<sub>03 / EXPERIENCE</sub>
+
+## Reporting grounded in operations.
+
+### Data Analyst · [MIRIT ↗](https://mirit.org/)
+
+**May 2026 — Present · Part-time · Remote**
+
+Building reporting and automation solutions for small-business clients with Power BI, SQL, and Power Query. Currently analyzing participant and engagement data for MIRIT's **Gambia Project**, helping inform future cultural-exchange program decisions.
+
+---
+
+### Operations Analyst · General Medical Care
+
+**April 2023 — April 2026 · Tarragona, Spain**
+
+- Designed and maintained Power BI dashboards across two provinces, reducing management reporting time by **approximately 30%** and surfacing operational bottlenecks.
+- Governed SAP ERP and Odoo data across multiple medical centers while maintaining reliable personnel and patient-flow reporting.
+- Consolidated SAP/Odoo reporting into SQL Server and Power BI, creating a foundation for future Azure and Fabric reporting.
+- Automated payroll reconciliation with Power Query and translated operational metrics into executive staffing and resource decisions.
+
+---
+
+### Financial Data Analyst · Caja Promotora de Vivienda Militar y de Policía
+
+**September 2019 — December 2022 · Colombia**
+
+- Built Excel-based valuation models to project portfolio growth and risk exposure for high-net-worth clients.
+- Delivered fiscal-health reports and KPI dashboards to executives, translating complex financial data into clear investment recommendations.
+
+---
+
+### Operations Analyst · Médicos Emergencias S.C.
+
+**June 2015 — July 2019 · Barcelona, Spain**
+
+- Consolidated fragmented operational sources into a centralized internal database, improving reliability across departments.
+- Tracked project budgets and timelines through Excel variance analysis and translated weekly project data into actionable leadership updates.
+
+<br>
+
+---
+
+<br>
+
+<sub>04 / SELECTED WORK</sub>
 
 ## Four projects. One evolving practice.
 
@@ -128,7 +173,7 @@ An end-to-end pipeline tracking European data roles through the Adzuna API—ing
 
 <br>
 
-<sub>04 / LEARNING</sub>
+<sub>05 / LEARNING</sub>
 
 ## Current direction.
 
@@ -159,29 +204,29 @@ Python & Distributed Data
 
 <br>
 
-<sub>05 / JOURNEY</sub>
+<sub>06 / BACKGROUND</sub>
 
-## Experience before tools.
+## A cross-sector path into data.
 
 ```text
 Operations
-Colombia 🇨🇴
+Spain 🇪🇸
         │
         ▼
-Financial Operations
+Financial Data Analysis
 Colombia 🇨🇴
         │
         ▼
 Healthcare Operations
-Europe 🇪🇺
+Spain 🇪🇸
         │
         ▼
-Business Intelligence
-& Data Analytics
+Data Analysis
+MIRIT · Remote
         │
         ▼
 Analytics Engineering
-& Modern Data Stack
+& Microsoft Fabric
 ```
 
 This path gives me something I value deeply: **technical curiosity grounded in real operational and business experience.**
@@ -204,7 +249,7 @@ This path gives me something I value deeply: **technical curiosity grounded in r
 
 <div align="center">
 
-<sub>06 / CONNECT</sub>
+<sub>07 / CONNECT</sub>
 
 ## Let’s make the next connection.
 
