@@ -140,7 +140,7 @@ This path gives me something I value deeply: **technical curiosity grounded in r
 
 **MBA** — EAE Business School · Universitat de Barcelona<br>
 **Data Analytics Bootcamp** — Ironhack<br>
-**BA in Communication**
+**BA in Communication** — Universidad de La Sabana
 
 ### Languages
 
