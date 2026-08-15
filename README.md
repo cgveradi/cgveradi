@@ -3,7 +3,8 @@
 **Data Analyst · Power BI Analyst · Business Intelligence**
 
 <a href="https://www.linkedin.com/in/carlosveradiago/" title="Connect with me on LinkedIn"><img src="./assets/linkedin.svg" alt="LinkedIn" width="28" height="28"></a>&nbsp;
-<a href="https://www.instagram.com/carlosveradi/" title="Follow me on Instagram"><img src="./assets/instagram.svg" alt="Instagram" width="28" height="28"></a>
+<a href="https://www.instagram.com/carlosveradi/" title="Follow me on Instagram"><img src="./assets/instagram.svg" alt="Instagram" width="28" height="28"></a>&nbsp;
+<a href="./assets/Carlos-Vera-CV.pdf" title="View my résumé"><img src="./assets/resume.svg" alt="Résumé" width="28" height="28"></a>
 
 <br>
 
