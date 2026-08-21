@@ -18,7 +18,7 @@ Building and owning BI reporting has been central to every role—from Excel-bas
 
 Since 2026, I run **[Miritai](https://miritai.com)**, my own data and automation practice for small businesses — scoping engagements, building reporting dashboards, and automating workflows end to end.
 
-I am focused on **Data Analyst, Power BI, and BI roles** while strengthening my Microsoft data-platform foundation through **DP-900 and DP-600 preparation**, Microsoft Fabric, and hands-on projects.
+I am focused on strengthening my Microsoft data-platform foundation through Microsoft Fabric, and hands-on projects.
 
 <br>
 
