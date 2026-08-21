@@ -47,6 +47,8 @@ End-to-end BI reporting—from raw ERP data and transformation to semantic model
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![dbt](https://img.shields.io/badge/dbt_Core-FF694B?style=flat-square&logo=dbt&logoColor=white)
+![Databricks](https://shields.io)
+![Microsoft Fabric](https://shields.io)
 ![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
 ![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=flat-square&logo=looker&logoColor=white)
@@ -91,7 +93,7 @@ Microsoft Data Platform
 └── Azure data fundamentals
 
 Analytics Engineering
-├── dbt transformation workflows
+├── dbt / databricks transformation workflows
 ├── dimensional modeling
 └── data quality & testing
 
