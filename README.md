@@ -3,7 +3,7 @@
 **Data Analyst · Power BI Analyst · Business Intelligence**
 
 <a href="https://www.linkedin.com/in/carlosveradiago/" title="Connect with me on LinkedIn"><img src="./assets/linkedin.svg" alt="LinkedIn" width="28" height="28"></a>&nbsp;
-<a href="https://miritai.com" title="Visit Miritai"><img src="./assets/miritai.svg" alt="Miritai" width="28" height="28"></a>&nbsp;
+<a href="https://miritai.com" title="Visit Miritai"><img src="./assets/favicon.svg" alt="Miritai" width="28" height="28"></a>&nbsp;
 <a href="./assets/Carlos-Vera-CV.pdf" title="View my résumé"><img src="./assets/resume.svg" alt="Résumé" width="28" height="28"></a>
 
 <br>
