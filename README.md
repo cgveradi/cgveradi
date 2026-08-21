@@ -3,7 +3,7 @@
 **Data Analyst · Power BI Analyst · Business Intelligence**
 
 <a href="https://www.linkedin.com/in/carlosveradiago/" title="Connect with me on LinkedIn"><img src="./assets/linkedin.svg" alt="LinkedIn" width="28" height="28"></a>&nbsp;
-<a href="https://www.instagram.com/carlosveradi/" title="Follow me on Instagram"><img src="./assets/instagram.svg" alt="Instagram" width="28" height="28"></a>&nbsp;
+<a href="https://miritai.com" title="Visit Miritai"><img src="./assets/miritai.svg" alt="Miritai" width="28" height="28"></a>&nbsp;
 <a href="./assets/Carlos-Vera-CV.pdf" title="View my résumé"><img src="./assets/resume.svg" alt="Résumé" width="28" height="28"></a>
 
 <br>
@@ -15,6 +15,8 @@
 I am a data-driven operations and financial analyst with **6+ years of experience** across healthcare and financial services in Spain and Colombia. I turn fragmented operational data into reporting that supports clear leadership decisions.
 
 Building and owning BI reporting has been central to every role—from Excel-based financial models and ERP data to SQL Server, Power BI semantic models, DAX, and executive dashboards. My background in **Communication and Business**, strengthened through an **MBA**, helps me connect the numbers to the decision behind them.
+
+Since 2026, I run **[Miritai](https://miritai.com)**, my own data and automation practice for small businesses — scoping engagements, building reporting dashboards, and automating workflows end to end.
 
 I am focused on **Data Analyst, Power BI, and BI roles** while strengthening my Microsoft data-platform foundation through **DP-900 and DP-600 preparation**, Microsoft Fabric, and hands-on projects.
 
